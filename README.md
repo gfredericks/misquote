@@ -6,6 +6,8 @@ symbol-qualification and gen-sym features.
 
 ## Usage
 
+Get it from leiningen/maven with `[com.gfredericks/misquote "1.0.0"]`.
+
 ```clojure
 (use '[misquote.core :only [misquote]])
 
